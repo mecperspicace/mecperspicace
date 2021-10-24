@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning html/css/javascript and I'm mastering Java and Python!
 - ⚡ I'm crypto and forex trader and profitable!!!
 
-### Reach me,
+### Contact me,
 - Instagram : gabriel.mercierr
 - Twitter : gverrmaj1
 - Youtube : gverrmaj
