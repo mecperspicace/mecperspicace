@@ -6,7 +6,9 @@
 ### - ⚡ I'm crypto and forex trader and profitable!!!
 
 # Contact me,
+### - Discord : MecPerspicace#0867
 ### - Instagram : gabriel.mercierr
 ### - Twitter : gverrmaj1
 ### - Youtube : gverrmaj
 ### - Website : soon...
+
