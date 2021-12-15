@@ -1,4 +1,4 @@
-# Hi there👋, I'm Gabriel MERCIER,
+# Hi there👋, I'm Gabriel MERCIER :
 ### - 💬 I'm 14 years old and I'm tenth grade. I'm in Reims, at Roosevelt.
 ### - 🔭 I’m currently working on a personal website and a minecraft server, we are looking for a java developper to help us! If you'r interested, dm me on instagram, twitter, discord.
 ### - 🌱 I’m currently learning html/css/javascript and I'm good at Java, Python and Linux!
@@ -8,7 +8,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielmercier&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-# Contact me,
+# How to reach me : 
 ### - Discord : MecPerspicace#0867
 ### - Instagram : gabriel.mercierr
 ### - Twitter : gverrmaj1
