@@ -6,12 +6,3 @@
 ### - ⚡ I'm crypto and forex trader and profitable!!!
 ### - 🖥 Member of the Wacoma's team and admin for [Wacoma](https://wacoma.fr/).
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielmercier&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-# How to reach me : 
-### - Discord : MecPerspicace#0867
-### - Instagram : gabriel.mercierr
-### - Twitter : gverrmaj1
-### - Youtube : gverrmaj
-### - Website : soon...
-
