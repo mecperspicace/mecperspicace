@@ -4,5 +4,5 @@
 ### - 🌱 I’m currently learning html/css/javascript and I'm good at Java, Python and Linux!
 ### - 🔨 I work with [VS Code](https://code.visualstudio.com/), [IntelliJ](https://www.jetbrains.com/fr-fr/idea/), [Pycharm](https://www.jetbrains.com/fr-fr/pycharm/) and a [Raspberry pi](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)! 
 ### - ⚡ I'm crypto and forex trader and profitable!!!
-### - 🖥 Member of the Wacoma's team and admin for [Wacoma](https://wacoma.fr/).
+### - 🖥 Member of the Wacoma's team and admin for Wacoma.
 
