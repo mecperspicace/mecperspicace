@@ -6,3 +6,7 @@
 ### - 🖥 Member of the Wacoma's team and admin/developper for Wacoma.
 ### - 🛠 Developper for All To Help You.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mecperspicace/mecperspicace/f09f58d412cb6a91dff90e5a0ffd05c7bfa98901/github-user-contribution.svg" alt="Sublime's custom image"/>
+</p>
+
